@@ -6,15 +6,22 @@ Team Members (type your name here):
 Tyler Lacy, 
 Competition Name: Vex v5 U Pushback 2025-2026
 
-So ur gonna download this code and run it on your robots
 
-upload the code via micro usb with vs code to the brain.
+Welcome to the readme of the LSC-CF robotics vex pushback comp.
+This is designed to be your go-to if you're getting the robot to run.
 
-eject the usb.
+(team members from previous vex comps please feel free to edit this to make sense)
 
-select your program on the graphical user interface.
 
-Then click run.
+1. So ur gonna download this code and run it on your robots
+
+2. upload the code via micro usb with vs code to the brain.
+
+3. eject the usb.
+
+4. select your program on the graphical user interface.
+
+5. Then click run.
 
 rough draft of flowcchart:
 <p align="center">
