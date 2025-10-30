@@ -3,7 +3,7 @@ Official repository for LSC-CyFair's Robotics Club
 
 Team Name: ???
 Team Members (type your name here):
-Tyler Lacy, ....
+Tyler Lacy, 
 Competition Name: Vex v5 U Pushback 2025-2026
 
 So ur gonna download this code and run it on your robots
