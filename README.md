@@ -16,3 +16,9 @@ select your program on the graphical user interface.
 
 Then click run.
 
+rough draft of flowcchart:
+<p align="center">
+  <img src="images/field_diagram.png" alt="Push Back Field Diagram" width="400">
+</p>
+
+
