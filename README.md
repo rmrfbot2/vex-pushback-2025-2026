@@ -18,7 +18,7 @@ Then click run.
 
 rough draft of flowcchart:
 <p align="center">
-  <img src="main/autonomousFLowchart.png" alt="flowchart" width="400">
+  <img src="autonomousFLowchart.png" alt="flowchart" width="400">
 </p>
 
 
